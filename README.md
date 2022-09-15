@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **likeyog/likeyog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hey, Alexander-lee here! :wave: 
+
+[![Alexander-lee's github stats](https://github-readme-stats.vercel.app/api?username=likeyog&count_private=true&show_icons=true)](https://github.com/likeyog/github-readme-stats)
+
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=likeyog&count_private=true&show_icons=true"> -->
